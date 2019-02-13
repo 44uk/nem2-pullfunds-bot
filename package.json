@@ -10,9 +10,9 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@types/node": "^10.12.21",
+    "@types/node": "^11.9.3",
     "nem2-sdk": "^0.10.1",
     "ts-node": "^8.0.2",
-    "typescript": "^3.3.1"
+    "typescript": "^3.3.3"
   }
 }
